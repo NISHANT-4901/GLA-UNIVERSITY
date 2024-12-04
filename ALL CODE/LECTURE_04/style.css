@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  border: 1px solid;
+  border-radius: 10px;
+  display: inline;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+}
+
+table {
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  
+}
